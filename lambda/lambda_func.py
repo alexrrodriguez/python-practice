@@ -3,8 +3,9 @@ def x(a): return a + 10
 
 print(x(5))
 
-
 # lamda function with arguments
+
+
 def x(a, b): return a * b
 
 
